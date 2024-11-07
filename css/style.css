@@ -243,6 +243,7 @@ h1 span {
   line-height: 90px;
   float: left;
   list-style: none;
+  height: 90px;
 }
 
 .menu-click {
@@ -623,6 +624,11 @@ h1 span {
 
 .partners .logo img:hover {
   opacity: 1;
+}
+
+.logo > img {
+  width: 90px;
+  height: 90px;
 }
 
 /* Contact */
